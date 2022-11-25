@@ -59,6 +59,3 @@ app.post("/failure",function(req,res){
 app.listen(process.env.PORT ||3000, function(){
   console.log("up and running on port 3000")
 });
-
-//0703065e3a8d70b6609cd7152f971a24-us21 api key mailchimp
-//d93e611a90 audience id
